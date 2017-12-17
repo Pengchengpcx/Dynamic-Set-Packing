@@ -1,0 +1,5 @@
+set_packing.egg-info/PKG-INFO
+set_packing.egg-info/SOURCES.txt
+set_packing.egg-info/dependency_links.txt
+set_packing.egg-info/requires.txt
+set_packing.egg-info/top_level.txt
